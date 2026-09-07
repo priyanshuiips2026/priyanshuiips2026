@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Priyanshu Chaubey
+<p align="center">
+  <img src="./profile.jpg" width="180" alt="Priyanshu">
+</p>
 
 ### 💻 MCA Student | Web Developer | AI & Data Science Enthusiast
 
