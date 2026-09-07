@@ -66,9 +66,15 @@
   <a href="https://www.linkedin.com/in/priyanshu-chaubey-3622b6240?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/u/0/#inbox "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/"><img src=" https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+  ## 🧩 LeetCode
+[
 
----
+![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
+](https://leetcode.com/u/YOUR_USERNAME/)
+[
+
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=YOUR_USERNAME&theme=dark)
+
+](https://leetcode.com/u/YOUR_USERNAME/)
 <p align="center"><i>"Without data, you're just another person with an opinion."</i></p>
