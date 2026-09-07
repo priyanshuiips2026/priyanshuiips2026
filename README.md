@@ -1,80 +1,83 @@
-<h1 align="center">Hi there, I'm [Priyanshu Chaubey] 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Turning Data into Insights</h3>
+👋 Hi, I'm Priyanshu! <img src="profile.jpg" width="90" align="right" style="border-radius:50%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Data+Scientist+in+the+Making;Python+%7C+R+%7C+SQL+Enthusiast;Machine+Learning+%26+AI+Explorer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-</p>
+🎓 MCA Student | 💻 Web Developer | 🤖 AI & Data Science Enthusiast
 
----
+Welcome to my GitHub profile! I'm an MCA student passionate about technology, software development, and continuous learning.
 
-### 🚀 About Me
--I am a MCA student at IIPS DAVV
-- 🔭 I'm currently learning and applying **Data Science & Machine Learning**
-- 🌱 I'm sharpening my skills in **Python, R, and SQL**
-- 💡 I love turning raw data into meaningful insights and visualizations
-- 📊 Interested in **Machine Learning, Data Analysis, and Statistics**
-- 🤝 Open to collaborating on data science / ML projects
-- 📫 Reach me at: priyanshu.iips2026@gmail.com
+I enjoy building projects, solving programming problems, and exploring the world of Web Development, Artificial Intelligence, and Data Science.
 
 ---
 
-### 🛠️ Languages & Tools
+🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- 🎓 Currently pursuing MCA (Master of Computer Applications)
+- 🌐 Interested in Web Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Science & Data Analytics
+- 💡 Love learning new technologies and building practical projects
+- 🧩 Interested in problem-solving and competitive programming
 
 ---
 
-### 📈 GitHub Stats
+🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" height="165"/>
-</p>
+💻 Programming Languages
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak"/>
-</p>
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🌐 Web Development
+
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+🤖 AI & Data Science
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+🗄️ Database & Tools
+
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+📌 Currently Learning
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [Project1](https://github.com/YOUR_USERNAME/repo) | Short description of what it does and the problem it solves | Python, Pandas, scikit-learn |
-| [Project2](https://github.com/YOUR_USERNAME/repo) | Short description of what it does and the problem it solves | R, ggplot2 |
-| [Project3](https://github.com/YOUR_USERNAME/repo) | Short description of what it does and the problem it solves | SQL, Power BI |
+🌐 Advanced Web Development
+🤖 Artificial Intelligence & Machine Learning
+📊 Data Science & Data Analytics
+🧠 Data Structures & Algorithms
+☁️ Modern Software Development
 
 ---
 
-### 🌐 Connect with Me
+🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/priyanshu-chaubey-3622b6240?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  ## 🧩 LeetCode
-[
+<p align="center"><a href="https://www.linkedin.com/in/priyanshu-chaubey-3622b6240" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://leetcode.com/u/Priyanshhuu737/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a><a href="https://www.hackerrank.com/profile/priyanshu_iips21" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a></p>---
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+📊 GitHub Journey
 
-](https://leetcode.com/u/YOUR_USERNAME/)
-[
+I'm continuously learning, experimenting, and building projects to strengthen my development and problem-solving skills.
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=YOUR_USERNAME&theme=dark)
+«Learn. Build. Solve. Repeat. 🚀»
 
-](https://leetcode.com/u/YOUR_USERNAME/)
-<p align="center"><i>"Without data, you're just another person with an opinion."</i></p>
+---
+
+⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me. 😊
