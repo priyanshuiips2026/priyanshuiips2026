@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanshu Chaubey
 <p align="center">
-  <img src="./profile.jpg" width="180" alt="Priyanshu">
+  <img src="https://www.linkedin.com/in/priyanshu-chaubey-3622b6240?utm_source=share_via&utm_content=profile&utm_medium=member_android  " width="180" alt="Priyanshu">
 </p>
 
 ### 💻 MCA Student | Web Developer | AI & Data Science Enthusiast
