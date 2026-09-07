@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Priyanshu Chaubey
 <p align="center">
-  <img src="https://www.linkedin.com/in/priyanshu-chaubey-3622b6240?utm_source=share_via&utm_content=profile&utm_medium=member_android  " width="180" alt="Priyanshu">
+  <img src="https://raw.githubusercontent.com/priyanshu123/priyanshu123/main/profile.jpg" width="200" alt="Priyanshu">
 </p>
-
+  
 ### 💻 MCA Student | Web Developer | AI & Data Science Enthusiast
 
 I'm **Priyanshu**, currently pursuing **MCA (5 Years) at IIPS, DAVV**.  
