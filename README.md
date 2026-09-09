@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Priyanshu Chaubey
 <p align="center">
-  <img src=  https://www.instagram.com/priyanshhuu.91/<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/71e0d311-1d0f-4072-8d78-a9a880167f97" />
-    
+  <a href="https://www.instagram.com/priyanshhuu.91/">
+    <img src="https://github.com/user-attachments/assets/71e0d311-1d0f-4072-8d78-a9a880167f97" 
+         width="200" height="200" alt="Instagram Profile" />
+  </a>
 </p>
   
 ### 💻 MCA Student | Web Developer | AI & Data Science Enthusiast
